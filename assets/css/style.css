@@ -18,6 +18,12 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Nunito", sans-serif;
 }
 
+.container .col-lg-8 .swiper-slide .sliderX {
+  width: 550px;
+  position: relative; 
+  top: -100px;
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
