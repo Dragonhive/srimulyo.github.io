@@ -196,6 +196,11 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* Keterangan */
+.Keterangan p {
+  font-weight: 550;
+}
+
 /**
 * Mobile Navigation 
 */
@@ -529,6 +534,13 @@ section {
   margin-bottom: 15px;
   font-size: 18px;
 }
+
+
+/* my Css */
+.services a .KataKata {
+  color: #111;
+}
+
 .services .title a {
   color: #111;
 }
